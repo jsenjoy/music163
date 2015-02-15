@@ -1,0 +1,24 @@
+{
+  "name": "music163",
+  "version": "0.0.1",
+  "description": "Cli player for music 163 in io.js",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsenjoy/music163.git"
+  },
+  "keywords": [
+    "client",
+    "terminal",
+    "music",
+    "163"
+  ],
+  "author": "Boom.Lee <boom11235.gg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsenjoy/music163/issues"
+  },
+  "homepage": "https://github.com/jsenjoy/music163"
+}
